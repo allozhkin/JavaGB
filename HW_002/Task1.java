@@ -8,8 +8,8 @@ public class Task1 {
     public static void main(String[] args) {
         Map<String, String> map = new LinkedHashMap<>();
         map.put("name","Ivanov");
-        map.put("country","Ukraine");
-        map.put("city","Kiev");
+        map.put("country","Russia");
+        map.put("city","Moscow");
         map.put("age",null);
         map.put("name1","Ivanov");
         map.put("name2","Ivanov");
